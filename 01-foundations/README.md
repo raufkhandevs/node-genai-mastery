@@ -39,7 +39,9 @@ const history = [
 
 1.  `lab01-completion.ts`: A simple request.
 2.  `lab02-streaming.ts`: Learning how to stream text.
-3.  `lab03-history.ts`: **(New)** A CLI chatbot that remembers who you are.
+3.  `lab03-history.ts`: Manual History Management (The "Chat Completion" way).
+4.  `lab04-assistants.ts`: **(New)** Using OpenAI's "Assistants API" (Stateful Threads).
+    - ⚠️ **Note**: This lab REQUIRES an official OpenAI Key (Paid). It does not work with Groq/Llama.
 
 ## 🚀 Setup (Free Tier Friendly)
 
